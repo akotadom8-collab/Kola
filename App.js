@@ -1,5 +1,5 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import {
+import {kola ride share
   Alert, SafeAreaView, ScrollView, StatusBar, StyleSheet, Text, TextInput,
   TouchableOpacity, View, Platform
 } from 'react-native';
